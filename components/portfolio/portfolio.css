@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#tagnav{
+    background-color: aqua;
+}
+.nav5{
+    background-color: #081b29;
+    /* background-image: url("https://img.freepik.com/free-vector/dark-blue-memphis-blog-banner-template_53876-98946.jpg?w=996&t=st=1697098665~exp=1697099265~hmac=08e3934fd5bf52feb87aa59b3b1ba6f4cc41c031666b2938dc42d6866652619d");
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.nav52{
+    background-color: #081b29;
+    height: 100vh;
+}
+.nav1{
+    color: rgb(255, 0, 93);
+    font-size: 150%;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.nav1:hover{
+ color: aqua;
+}
+.nav2{
+    color: aqua;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+#navHomeport{
+    color: aqua;
+    font-size: larger;
+    font-weight: bold;
+    background-color: #081b29;
+    height: 100vh;
+
+}
+.homenav{
+    color: aqua;
+   
+}
+
+.btn{
+    font-weight: bold;
+}
+/* about page */
+.about-section{
+    margin-top: 15%;
+    margin-left: 10%;
+    
+    
+}
+.aboutdiv{
+    background: url(https://wallpaperaccess.com/full/2471303.gif);
+    background-color: #081b29;
+    padding-top: 10px;
+    height: 100vh;
+    color: aqua;
+}
+.aboutbtn{
+    padding-left: 14%;
+    padding-top: 3%;
+}
+
+/* education page */
+
+.edudiv2{
+    color: aqua;
+  
+}
+.edudiv{
+    background-color: #081b29;
+    height: 100vh;
+}
+
+/* certificate page */
+
+.proeduhead{
+    text-shadow: 5px 5px 5px rgb(77, 255, 0);
+
+}
+
+.procer{
+   
+    border: 2px solid black;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.7;
+    /* border-top-right-radius:; */
+}
+.procer:hover{
+    box-shadow: 10px 10px 10px rgb(74, 196, 224);
+    transform: scale(1.0);
+ /*    opacity: 1; */
+ 
+}
+
+.procerimage:hover{
+    transform: scale(1.7);
+    opacity: 1;
+}
+.procertificationdiv{
+    background-color: #081b29;
+    color: aqua;
+}
+
+/* Technical skills page */
+
+
+.techdiv{
+    background-color: #081b29;
+    color: aqua;    
+}
+
+/* .proedu{
+    border: 1px solid white;
+    border-radius: 25px;
+}
+.proedu:hover{
+    box-shadow: 20px 20px 20px rgb(0, 255, 251);
+    transform: scale(1.1);
+}
+.proeduhead{
+    text-shadow: 5px 5px 5px rgb(77, 255, 0);
+
+}
+.proabouthead{
+    text-shadow: 5px 5px 5px rgb(0, 60, 255);
+    text-decoration: underline;
+}
+.proabouthead:hover{
+    transform: scale(1.2);
+} */
+.na{
+    margin-top: -25px;
+}
